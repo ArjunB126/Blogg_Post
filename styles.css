@@ -10,3 +10,9 @@
     font-family: "Poppins", sans-serif;
     background: #191627;
   }
+
+  header {
+    margin-top: 50px;
+    display: flex;
+
+  }
