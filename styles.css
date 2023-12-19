@@ -36,3 +36,7 @@
     font-weight: 900;
     cursor: pointer;
   }
+  header p a {
+    cursor: pointer;
+    color: #e6e5e5;
+  }
