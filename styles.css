@@ -17,3 +17,11 @@
     justify-content: space-around;
     align-items: center;
   }
+
+  header h1 {
+    font-family: "Montserrat", sans-serif;
+    text-decoration: underline;
+    font-size: 35px;
+    line-height: 30px;
+
+  }
