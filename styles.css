@@ -87,3 +87,7 @@
 .blog h4 {
   color: #ffff00;
 }
+
+.left {
+  border-radius: 0 10px 10px 0;
+}
