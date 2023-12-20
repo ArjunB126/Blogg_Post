@@ -66,3 +66,9 @@
     background: #2c1c7c;
     color: #ffeeaa;
   }
+
+.blog a,
+.blog p {
+ 
+  margin: 8px 0;
+}
