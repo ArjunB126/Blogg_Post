@@ -8,7 +8,7 @@
 
   body {
     font-family: "Poppins", sans-serif;
-    background: #191627;
+    background: #912F40;
   }
 
   header {
@@ -25,7 +25,7 @@
     line-height: 30px;
     font-weight: 800;
     letter-spacing: 2px;
-    color: #e6e5e5;
+    color: #FFFFFA;
   }
 
   header p {
@@ -38,7 +38,7 @@
   }
   header p a {
     cursor: pointer;
-    color: #e6e5e5;
+    color: white;
   }
 
   .container {
@@ -63,13 +63,13 @@
   .blog {
     border: 2px solid #999;
     padding: 15px 30px;
-    background: #2c1c7c;
-    color: #ffeeaa;
+    background: #AFE3C0;
+    color: #22333B;
   }
 
 .blog a,
 .blog p {
-  color: #f3e093;
+  color: #22333B;
   margin: 8px 0;
 }
 
@@ -81,7 +81,7 @@
 
 .blog h2 {
   margin: 5px 0;
-  color: #ff9100;
+  color: #b91372;
 }
 
 .blog h4 {
