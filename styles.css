@@ -98,5 +98,6 @@
 
 .blog a:hover {
   transform: scale(1.1);
-  border-bottom: 2px solid #ff00dd;
+  border: 2px solid #0F084B ;
+  
 }
