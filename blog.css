@@ -57,3 +57,10 @@ section .date {
   section aside .archives {
     margin: 60px 0;
   }
+
+
+  section aside a {
+    display: block;
+    color: #398fff;
+  }
+  
