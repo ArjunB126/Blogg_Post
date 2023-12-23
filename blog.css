@@ -40,5 +40,8 @@ section .date {
   section .buttons button {
     border-radius: 30%;
     padding: 10px 20px;
+    color: #ffad61;
+    font-weight: 700;
+    cursor: pointer;
     
   }
