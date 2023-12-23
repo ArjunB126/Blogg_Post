@@ -36,3 +36,9 @@ section .date {
   section ol {
     margin-left: 50px;
   }
+
+  section .buttons button {
+    border-radius: 30%;
+    padding: 10px 20px;
+    
+  }
