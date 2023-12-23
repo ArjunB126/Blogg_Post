@@ -48,3 +48,8 @@ section .date {
     margin: 10px 8px 10px 0;
     transition: background-color 0.5s ease;
   }
+
+  section .buttons button:hover {
+    background-color: #fff;
+    color: blue;
+  }
