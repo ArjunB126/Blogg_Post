@@ -1,0 +1,6 @@
+section {
+    display: grid;
+    margin-top: 50px;
+    grid-template-columns: 75% 25%;
+   
+  }
