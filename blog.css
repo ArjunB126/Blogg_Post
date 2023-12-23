@@ -31,3 +31,8 @@ section .date {
     border: 1px solid #999;
     margin: 10px 0;
   }
+
+  section ul,
+  section ol {
+    margin-left: 50px;
+  }
