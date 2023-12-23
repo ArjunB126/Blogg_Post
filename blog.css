@@ -26,4 +26,8 @@ section .date {
   .text {
     margin: 12px 0;
   }
-  
+ 
+  .borderText {
+    border: 1px solid #999;
+    margin: 10px 0;
+  }
